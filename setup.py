@@ -10,6 +10,6 @@ setup(
     packages=["xsd_download"],
     install_requires=[
         "certifi==2017.4.17",
-        "Click==7.0",
+        "Click==8.1.2",
     ],
 )
